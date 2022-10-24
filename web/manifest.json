@@ -1,0 +1,23 @@
+{
+    "name": "Probook student",
+    "short_name": "Probook ",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1D2425",
+    "theme_color": "#FF1744",
+    "description": "Probook student desktop version",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
